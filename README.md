@@ -5,6 +5,14 @@
 `MyFriend.co.ke` is a platform dedicated to tracking, documenting, and informing the public about the Kenyan government's delivered and undelivered promises. Our goal is to promote transparency, accountability, and active citizen participation in governance.
 
 ---
+## Technology Stack
+
+We will be using the following technologies:
+
+- **Frontend:** ReactJS with TypeScript
+- **Backend:** GoLang
+
+---
 
 ## Roadmap
 
