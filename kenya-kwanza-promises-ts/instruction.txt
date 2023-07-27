@@ -3,3 +3,10 @@ cd kenya-kwanza-promises-ts
 
 cd path/to/kenya-kwanza-promises-ts/src
 touch PromiseRecord.tsx
+
+
+git branch ----list the branches
+git branch -m jafan1st-branch  ----renaming 
+git branch
+jafan1st-branch ----list the branches
+git push --set-upstream origin jafan1st-branch ----pushing project
