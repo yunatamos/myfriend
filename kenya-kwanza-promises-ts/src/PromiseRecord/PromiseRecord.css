@@ -1,0 +1,50 @@
+/* src/PromiseRecord.css */
+
+/* Styles for the entire component */
+.App {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    max-width: 400px;
+  }
+  
+  /* Styles for the input field */
+  .App input {
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+  /* Styles for the buttons */
+  .App button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    margin-right: 10px;
+    cursor: pointer;
+  }
+  
+  /* Styles for the lists */
+  .App ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .App li {
+    margin-bottom: 5px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Styles for the section headers */
+  .App h2 {
+    margin-top: 20px;
+  }
+  
