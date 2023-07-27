@@ -1,0 +1,5 @@
+npx create-react-app kenya-kwanza-promises-ts --template typescript
+cd kenya-kwanza-promises-ts
+
+cd path/to/kenya-kwanza-promises-ts/src
+touch PromiseRecord.tsx
